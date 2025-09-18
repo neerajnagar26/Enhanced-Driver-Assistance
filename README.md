@@ -1,3 +1,7 @@
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](report/CS_680_Report.pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 # Enhanced-Driver-Assistance
 
 # Enhanced Driver Assistance: Emergency Vehicle Detection (Vision-Only)
@@ -43,4 +47,21 @@ See the paper for full details and results. :contentReference[oaicite:0]{index=0
 We use public datasets for emergency vehicles, siren lights, and snowplows. We **do not** redistribute raw data.  
 See [`data/DATASET_SOURCES.md`](data/DATASET_SOURCES.md) for links and licenses.
 
-## Project layout
+
+## Status
+This repository shares the research report, curated assets, and results.  
+Executable training/inference code is not included yet. Planned next steps:
+- Add minimal inference demo (notebook) using Ultralytics YOLOv8.
+- Explore video/temporal cues for lightbar detection.
+- Expand and balance datasets; address snowplow bias.
+
+## Citation
+If this repo or report helps your work, please cite:
+
+
+
+## Acknowledgments
+- Prior art: Dynle’s YOLOv7-based emergency vehicle work (Japan). Credit their imagery where reproduced and follow their license terms.
+
+## License
+MIT for repository text/config. Example images © authors unless otherwise noted. External datasets and third-party images remain under their original licenses.
