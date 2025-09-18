@@ -1,0 +1,3 @@
+- Roboflow Emergency Vehicle Detection — link + license summary
+- Roboflow Emergency Siren — link + license summary
+- images.cv Snowplow — link + license summary
