@@ -18,16 +18,16 @@ See the paper for full details and results. :contentReference[oaicite:0]{index=0
 
 ### Inputs
 <p align="center">
-  <img src="examples/inputs/sample_1.jpg" width="31%" alt="Street scene with emergency vehicle">
-  <img src="examples/inputs/sample_2.jpg" width="31%" alt="Snowplow in winter street">
-  <img src="examples/inputs/sample_3.jpg" width="31%" alt="Unmarked vehicle with lightbar on">
+  <img src="examples/inputs/sample_1.png" width="31%" alt="Street scene with emergency vehicle">
+  <img src="examples/inputs/sample_2.png" width="31%" alt="Snowplow in winter street">
+  <img src="examples/inputs/sample_3.png" width="31%" alt="Unmarked vehicle with lightbar on">
 </p>
 
 ### Detections
 <p align="center">
-  <img src="examples/detections/detect_1.jpg" width="31%" alt="Detected fire engine with bbox">
-  <img src="examples/detections/detect_2.jpg" width="31%" alt="Detected snowplow (bbox)">
-  <img src="examples/detections/detect_3.jpg" width="31%" alt="Unmarked vehicle lightbar detected">
+  <img src="examples/detections/detect_1.png" width="31%" alt="Detected fire engine with bbox">
+  <img src="examples/detections/detect_2.png" width="31%" alt="Detected snowplow (bbox)">
+  <img src="examples/detections/detect_3.png" width="31%" alt="Unmarked vehicle lightbar detected">
 </p>
 
 ### Confusion matrices
