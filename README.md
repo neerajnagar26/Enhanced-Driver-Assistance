@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](report/CS_680_Report.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](report/Report.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
