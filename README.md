@@ -4,7 +4,7 @@
 
 Lightweight computer-vision approach to detect emergency vehicles (fire, ambulance, police) and their **active status** (lightbar on/off) from images. Built around YOLOv8n and curated datasets; goal is real-time driver assistance on constrained hardware.
 
-> Report PDF: [`report/CS_680_Report.pdf`](report/CS_680_Report.pdf)
+> Report PDF: [`report/Report.pdf`](report/Report.pdf)
 
 ## Highlights
 - Two-model design tested: vehicle detector + lightbar detector (sequential and parallel setups).
