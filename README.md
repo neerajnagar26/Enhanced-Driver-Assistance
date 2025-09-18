@@ -18,23 +18,24 @@ See the paper for full details and results. :contentReference[oaicite:0]{index=0
 
 ### Inputs
 <p align="center">
-  <img src="examples/inputs/sample_1.png" width="31%" alt="Street scene with emergency vehicle">
-  <img src="examples/inputs/sample_2.png" width="31%" alt="Snowplow in winter street">
-  <img src="examples/inputs/sample_3.png" width="31%" alt="Unmarked vehicle with lightbar on">
+  <img src="examples/inputs/sample_1.png" height="200px" alt="Street scene with emergency vehicle">
+  <img src="examples/inputs/sample_2.png" height="200px" alt="Snowplow in winter street">
+  <img src="examples/inputs/sample_3.png" height="200px" alt="Unmarked vehicle with lightbar on">
 </p>
 
 ### Detections
 <p align="center">
-  <img src="examples/detections/detect_1.png" width="31%" alt="Detected fire engine with bbox">
-  <img src="examples/detections/detect_2.png" width="31%" alt="Detected snowplow (bbox)">
-  <img src="examples/detections/detect_3.png" width="31%" alt="Unmarked vehicle lightbar detected">
+  <img src="examples/detections/detect_1.png" height="200px" alt="Detected fire engine with bbox">
+  <img src="examples/detections/detect_2.png" height="200px" alt="Detected snowplow (bbox)">
+  <img src="examples/detections/detect_3.png" height="200px" alt="Unmarked vehicle lightbar detected">
 </p>
 
 ### Confusion matrices
 <p align="center">
-  <img src="results/figures/lightbar_cm_v1.png" width="45%" alt="Lightbar Model V1 confusion matrix">
-  <img src="results/figures/vehicle_cm.png" width="45%" alt="Vehicle model confusion matrix">
+  <img src="results/figures/lightbar_cm_v1.png" height="220px" alt="Lightbar Model V1 confusion matrix">
+  <img src="results/figures/vehicle_cm.png" height="220px" alt="Vehicle model confusion matrix">
 </p>
+
 
 > Figure captions and numeric results are summarized in [`results/metrics.md`](results/metrics.md).
 
